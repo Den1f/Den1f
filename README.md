@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep</h1>
-<h3 align="center">A cyber-security enthusiast who also freelances in digital illustrations as a hobby</h3>
+<h3 align="center">From coding complexities to digital delights, I'm your go-to guy for Java wizardry and pixel perfection.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=den1f&label=Profile%20views&color=0e75b6&style=flat" alt="den1f" /> </p>
 
